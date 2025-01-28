@@ -1,0 +1,20 @@
+ul{
+    float:left;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    list-style:none;
+    margin-left:flex;
+    justify-content:center;
+    align-items:center;
+}
+ul li a{
+    text-decoration: none;
+    color:white;
+    font-family: Arial;
+    font-weight: bold;
+    transition:0.4s ease-in-out;
+    width:300px;
+    float:left;
+    height:70px;
+}

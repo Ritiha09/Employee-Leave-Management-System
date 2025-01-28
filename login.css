@@ -1,0 +1,23 @@
+h1{
+    text-align:center;
+    color: white;
+}
+body{
+    background-image: url("login.png");
+    background-size:cover;
+}
+form
+{
+    .center{
+        display:inline-block;
+        box-sizing: border-box;
+        align-items:center;
+        border-radius: 25px;
+        border:3px solid #e6eeda;
+        height:400px;
+        width:400px;
+        padding:25px;
+        font-size:30px;
+        background:rgba(227, 233, 227, 0.3);
+    }
+}
